@@ -1,2 +1,4 @@
 # RollerCoasterEDA
- Rollercoaster exploratory data analysis based on Kagge dataset.
+ Roller coaster exploratory data analysis based on Kagge dataset.
+ 
+ Dataset = https://www.kaggle.com/datasets/robikscube/rollercoaster-database
